@@ -1,2 +1,2 @@
 # Catchdboy
-a game for js 13k games
+A game for js 13k games
